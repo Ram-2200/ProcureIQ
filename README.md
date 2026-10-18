@@ -23,7 +23,7 @@ Build a procurement system that simulates the Procure-to-Pay (P2P) lifecycle whi
 
 ## Project Status
 
-🚧 In development — currently in the initial setup and planning phase.
+🚧 In development — currently in the initial setup and planning phase. Will update the progress
 
 ## Goal
 
