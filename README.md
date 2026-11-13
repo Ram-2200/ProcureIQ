@@ -27,4 +27,4 @@ Build a procurement system that simulates the Procure-to-Pay (P2P) lifecycle whi
 
 ## Goal
 
-Build a functional, tested, and deployable application while learning and applying real-world software engineering concepts.
+Build a functional, tested, and deployable application while learning and applying real-world software engineering concepts./////////
